@@ -3,7 +3,7 @@
 A beginner-friendly Python program that performs basic arithmetic calculations.
 
 ## How to Use
-1. Run `calculator.py`.
+1. Run `python_calculator.py`.
 2. Follow the prompts to enter numbers and choose an operation (add, subtract, multiply, divide).
 3. The program will display the result.
 
